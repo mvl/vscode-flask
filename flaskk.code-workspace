@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "/Users/mvl/code/mvl/python/vscode-foo"
+			"path": "."
 		}
-	]
+	],
+	"settings": {}
 }
